@@ -6,5 +6,12 @@ Team:
 
 
 Nathan Melwani
+
+
 Jason Guan
-<add your names with a pull request>
+
+
+<Anthony>
+  
+  
+<Angie>
