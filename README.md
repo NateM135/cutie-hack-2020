@@ -38,8 +38,6 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 
 #### Commands
 
-*When typing out commands exclude <>, as <> simply shows that there needs to be a user input, such as a sentence or tagging a user (Ex: !8ball "Zoob Ball will win Hack Week"  or !lick @pittypot#3945).*
-
 | General Commands| |
 | -- |-- |
 |+ping| Checks Bots Ping!|
