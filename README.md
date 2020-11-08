@@ -45,6 +45,7 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 |!ping| Checks ZoobBot Ping!|
 |!help| Shows the main commands the bot can use.|
 |!serverinvite| Generate an invite to this server!|
+|!rps| Play rock paper scissors against Long Mark!|
 
 |Games||
 |--|--|
