@@ -5,7 +5,7 @@
 
 Have you every thought "Dang, those Discord bots are so cool, we wish could make our own?"  Probably not.... But we did! 
 
-Our creation, Long Marc, was developed during CutieHack 2020 and features a few fun commands that we made to help us learn Javascript. We started this morning by watching a freecodecamp turotial on Javascript and look where we are now...
+Our creation, Long Mark, was developed during CutieHack 2020 and features a few fun commands that we made to help us learn Javascript. We started this morning by watching a freecodecamp turotial on Javascript and look where we are now...
 
 Primarily, we used Discord.JS (as it is a Discord bot) as well as a few other fun APIs and libraries to create several fun and cool things you can do with your friends while stuck at home and vibing on Discord!
 
