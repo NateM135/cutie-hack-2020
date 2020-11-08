@@ -8,7 +8,6 @@ module.exports = {
             holder += args[i] + " ";
         }
             
-      
         message.channel.send(holder)
     },
 };
