@@ -1,4 +1,4 @@
-![Cutiehack Submission](https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg)
+![Cutiehack Submission](https://cdn.discordapp.com/attachments/768155187625590784/774831519192842280/unknown.png)
 
 
 ### Long Mark
