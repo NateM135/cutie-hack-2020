@@ -16,7 +16,7 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
  2. Install the latest version of git.
  3. Unpack and install both of these. 
  4. Restart your computer.
- 5. Go to our [Github Repository](https://github.com/NateM135/ZoobBot) and find the Green button that says clone or download. Click it and select Download Zip.
+ 5. Go to our [Github Repository](https://github.com/NateM135/cutie-hack-2020) and find the Green button that says clone or download. Click it and select Download Zip.
  6. Extract the contents of the zip to a folder of your choosing. You will need to know the path to this file later.
  7. Open the config.json file in a text editor of your choosing, I suggest [Notepad++](https://notepad-plus-plus.org/).
  8. Place your token in the quotes. Example: "token here"
@@ -34,7 +34,7 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 
 #### Non-Command Features
 
- - Advanced curse world filter. Zoob will remind you about his Christian values whenever a naughty, naughty curse word is said in his chatroom.
+ - Advanced curse world filter. Mark will remind you about his Christian values whenever a naughty, naughty curse word is said in his chatroom.
 
 #### Commands
 
@@ -42,7 +42,7 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 
 | General Commands| |
 | -- |-- |
-|+ping| Checks ZoobBot Ping!|
+|+ping| Checks Bots Ping!|
 |+help| Shows the main commands the bot can use.|
 |+serverinvite| Generate an invite to this server!|
 |+ban <user>| Bans a player from the server!|
