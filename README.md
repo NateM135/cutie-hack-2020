@@ -42,27 +42,32 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 
 | General Commands| |
 | -- |-- |
-|!ping| Checks ZoobBot Ping!|
-|!help| Shows the main commands the bot can use.|
-|!serverinvite| Generate an invite to this server!|
-|!ban <user>| Bans a player from the server!|
-|!backwards <phrase>| Spells a phrase backwards!|
-|!cat| When you really want a cat.|
-|!eval <expression>| Solves the math expression. If you like CTFs, there's a flag for you find here ;o|
-|!kick <user>| Kicks a user.|
-|!clear <number of messages to delete>| Deletes a whole lot of messages!|
-|!morse <message>| Converts a string into morse code!|
-|!dog| When you want mans best friend.|
-|!servername| Gets the servername.|
+|+ping| Checks ZoobBot Ping!|
+|+help| Shows the main commands the bot can use.|
+|+serverinvite| Generate an invite to this server!|
+|+ban <user>| Bans a player from the server!|
+|+backwards <phrase>| Spells a phrase backwards!|
+|+eval <expression>| Solves the math expression. If you like CTFs, there's a flag for you find here ;o|
+|+kick <user>| Kicks a user.|
+|+clear <number of messages to delete>| Nukes a specified amount of messages in a channel.|
+|+morse <message>| Converts a string into morse code!|
+|+servername| Gets the servername.|
+|+choose <option> <option2> <option n>|Chooses something for you... To study for the CS10A Midterm or to to CutieHack...|
+|+echo <string>|Repeats something right back to you.. Useful for discord formatting.|
+ 
  
 
-|Games||
+|Games/Fun||
 |--|--|
-|!8ball @user| Ask the magic 8ball any question and get a response!|
-|!rps <"Rock, Paper, or Scissors">| Rock, Paper, Scissors game you play with the bot. You must choose between rock, paper, and scissors to play against the bot! This MAY OR MAY NOT BE RIGGED!!
-|!russian <@user> <#> |Play Russian Roulette with your friends! Use the command and tag all the friends you want to play with! Loser gets kicked ;)
-|!dogspeak <string>| Bork Bark!|
-
+|+8ball @user| Ask the magic 8ball any question and get a response!|
+|+rps <"Rock, Paper, or Scissors">| Rock, Paper, Scissors game you play with the bot. You must choose between rock, paper, and scissors to play against the bot! This MAY OR MAY NOT BE RIGGED!!
+|+russian <@user> <#> |Play Russian Roulette with your friends! Use the command and tag all the friends you want to play with! Loser gets kicked ;)
+|+dogspeak <string>| Bork Bark!|
+|+flip| Coin flip!|
+|+backwards <string>| Prints the string backwards!|
+|+chicken| POSTS A PICTURE OF A CHICKEN|
+|+dog| Get a random image of a dog!|
+|+cat| Get a random image of a cat!|
 
 
 
