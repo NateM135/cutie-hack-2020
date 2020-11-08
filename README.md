@@ -46,7 +46,8 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 |!help| Shows the main commands the bot can use.|
 |!serverinvite| Generate an invite to this server!|
 |!ban <user>| Bans a player from the server!|
-|!backwards <phrase>| Spells a phrase backwards!
+|!backwards <phrase>| Spells a phrase backwards!|
+|!cat| !When you really want a cat.|
 
 |Games||
 |--|--|
