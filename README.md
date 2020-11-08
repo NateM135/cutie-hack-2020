@@ -45,13 +45,14 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 |!ping| Checks ZoobBot Ping!|
 |!help| Shows the main commands the bot can use.|
 |!serverinvite| Generate an invite to this server!|
-|!rps| Play rock paper scissors against Long Mark!|
+|!ban| Bans a player from the server!|
 
 |Games||
 |--|--|
 |!8ball @user| Ask the magic 8ball any question and get a response!|
 |!rps <"rock, paper, or scissors">| Rock, Paper, Scissors game you play with the bot. You must choose between rock, paper, and scissors to play against the bot! This MAY OR MAY NOT BE RIGGED!!
 |!russian <@user> <#> |Play Russian Roulette with your friends! Use the command and tag all the friends you want to play with! Loser gets kicked ;)
+
 
 
 
