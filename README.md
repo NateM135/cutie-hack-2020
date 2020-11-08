@@ -49,6 +49,7 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 |!backwards <phrase>| Spells a phrase backwards!|
 |!cat| When you really want a cat.|
 |!eval <number + number>| Adds two numbers together|
+|kick <user>| Kicks a user|
 
 |Games||
 |--|--|
