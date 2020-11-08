@@ -49,7 +49,11 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 |!backwards <phrase>| Spells a phrase backwards!|
 |!cat| When you really want a cat.|
 |!eval <number + number>| Adds two numbers together|
-|!kick <user>| Kicks a user|
+|!kick <user>| Kicks a user.|
+|!clear <number of messages to delete>| Deletes a whole lot of messages!|
+|!morse <message>| Converts a string into morse code!|
+|!dog| When you want mans best friend.|
+ 
 
 |Games||
 |--|--|
