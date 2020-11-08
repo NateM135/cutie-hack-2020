@@ -1,11 +1,11 @@
 module.exports = {
-    name: 'backwords',
-    description: 'Prints a string backwords.',
+    name: 'backwards',
+    description: 'Prints a string backwards.',
     execute(message, args) {
 
         holder = ""
-        for(var i = args.length() -1 ; i>0; i--) {
-            holder += args[i]
+        for(var i = args.length -1 ; i>=0; i--) {
+            holder += args[i] + " ";
         }
             
       
