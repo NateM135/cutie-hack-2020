@@ -20,8 +20,6 @@ client.once('ready', () => {
 
 client.on('message', message => {
 	
-	console.log('message.content=' + message.content);
-
 	if (message.author.bot) return;
 
 	for (let regex of regexes) {
@@ -36,7 +34,7 @@ client.on('message', message => {
 
 			console.log(regex);
 
-			message.reply('@' + message.author + 'https://i.kym-cdn.com/photos/images/newsfeed/001/869/628/370.gif');
+			message.reply("", {files: ["https://i.kym-cdn.com/photos/images/newsfeed/001/869/628/370.gif"]});
 
 			message.delete();
 
