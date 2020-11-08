@@ -53,6 +53,7 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 |!clear <number of messages to delete>| Deletes a whole lot of messages!|
 |!morse <message>| Converts a string into morse code!|
 |!dog| When you want mans best friend.|
+|!servername| Gets the servername.|
  
 
 |Games||
@@ -60,6 +61,7 @@ Long Mark was developed by four freshman: Nathan Melwani, Anthony Page, Angelika
 |!8ball @user| Ask the magic 8ball any question and get a response!|
 |!rps <"Rock, Paper, or Scissors">| Rock, Paper, Scissors game you play with the bot. You must choose between rock, paper, and scissors to play against the bot! This MAY OR MAY NOT BE RIGGED!!
 |!russian <@user> <#> |Play Russian Roulette with your friends! Use the command and tag all the friends you want to play with! Loser gets kicked ;)
+|!dogspeak <string>| Bork Bark!|
 
 
 
